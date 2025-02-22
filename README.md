@@ -4,9 +4,10 @@ The **HR Analytics** Dashboard is an interactive visualization that helps organi
 
 ## Dataset Used
 - <a href = "https://github.com/sitanshusingh/HR-Analytics-DashBoard/blob/main/HR_Analytics-Data.csv">HR Analytics Dataset</a>
-- [Features].(#Features)
+- [Features](#Features)
 
-- ## Features  
+
+- ## Features 
  - 📊 **KPI**: Total employees, attrition count, attrition rate, average age, salary, and tenure.  
  - 👥 **Attrition by Gender**: Breakdown of male and female attrition rates.  
  - 📅 **Attrition by Age**: Understanding attrition trends across different age groups.  
